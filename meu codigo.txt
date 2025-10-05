@@ -1,1 +1,5 @@
+ola eu sou o Jordy e estou aprendendo git
 Aqui estamos na branche master com todas as alterações estaveis
+
+
+
